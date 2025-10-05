@@ -37,7 +37,5 @@ Feel free to reach out via:
 
 - 📝 First-author paper submitted to ARR (Oct 2025), targeting ACL — collaboration with [Guancheng Wan](https://guanchengwan.github.io)  
 - 🚀 Released **minimind-notes** on GitHub (42⭐ and growing!)  
-- 🧑‍🔬 Still juggling research, coursework, and that elusive full night’s sleep  
-- ✍️ Writing code, writing papers, writing README... still hoping Reviewer #2 is merciful 😅  
 
 <br>
