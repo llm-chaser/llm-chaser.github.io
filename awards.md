@@ -4,25 +4,45 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## 🎓 Scholarships & Honors
 
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, Five times)<br>Combined degree scholarship between FZU and Maynooth<br>
+- **Dec 2024** — **National Scholarship**, Central South University  
+  Top national-level award (¥10,000 RMB), granted to the only recipient in the **Excellence Training Program of Computer Science**
+- **Dec 2024** — **First-Class Academic Scholarship**, Central South University  
+  Highest annual scholarship awarded to the No.1 student in the Excellence Training Program
 
-## Competitions
+---
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+## 🏆 Competitions
+
+- **Nov 2024** — 🥇 **National First Prize**, FLTRP · Guocai Cup English Contest
+- **May 2025** — 🥉 **Kaggle Bronze Medal**, *LLMs – You Can't Please Them All*  
+  Ranked 129th out of 1692 teams; focused on adversarial robustness for large language models  
+  [🔗 View Certificate](https://www.kaggle.com/competitions/llms-you-cant-please-them-all)
+- **July 2025** — 🥉 **Provincial Third Prize**, China Service Outsourcing Innovation and Entrepreneurship Competition
+- **Aug 2025** — 🥉 **National Third Prize**, National Cybersecurity Competition for College Students  
+
+---
+
+## 🌟 Other Honors & Leadership
+
+- **Leader**, *Top 10 Excellent Student Team*, School of Computer Science, CSU  
+  Elected as team captain; led team coordination, project execution, and award applications
+
+- **Outstanding Student**, Central South University  
+  Awarded for academic excellence and overall campus contributions
+
+- **Class Academic Representative (Study Committee Member)**  
+  Organized academic activities, assisted in course management, and promoted learning culture
+
+- **Led the class to multiple collective honors**, including:  
+  - 🏅 *Top 10 Excellent Class*  
+  - 📘 *Duxue-Gongjin Award for Academic Progress & Unity*  
+  - 🧭 *Excellent Class of the Year*  
+  - 🏆 *Top 10 Academic Atmosphere Class*
+
+
+> 💬 I’m currently an undergraduate student in the **Excellence Training Program of Computer Science** at **Central South University**, where I focus on academic research, technical competitions, and personal growth across disciplines.  
+> 🧠 More achievements and publications coming soon — stay tuned!
 
 <br>
