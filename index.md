@@ -15,7 +15,7 @@ layout: page
 📬 I'm always open to discussions and collaborations.  
 Feel free to reach out via: 
 
-**Email**: 1119774067@qq.com
+**Email**: 8210231904@csu.edu.cn
 
 **WeChat**: delight9921 (please indicate your purpose when adding)
 
@@ -34,9 +34,7 @@ Feel free to reach out via:
 
 ## News and Updates
 
-- 🧪 Still in the "under review" phase — a sacred time of ✨ hope, fear, and arXiv refreshing.
 - ✍️ Writing code, writing papers, writing README... still waiting for Reviewer #2’s kindness.
-- 📚 Learning how to write better prompts *and* better introductions — both equally hard.
 - 🧑‍🔬 Trying to balance coursework, research, and the occasional full night's sleep.
 - 🚀 First milestone coming soon… I can feel the “Accepted” button calling me 🛎️
 
