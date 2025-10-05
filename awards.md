@@ -29,7 +29,7 @@ title: Awards
 - **Leader**, *Top 10 Excellent Student Team*, School of Computer Science, CSU  
   Elected as team captain; led team coordination, project execution, and award applications
 
--**School of Computer Science Representative**(1 of 27)Selected as one of 27 representatives from all four undergraduate years
+- **School of Computer Science Representative**,(1 of 27)Selected as one of 27 representatives from all four undergraduate years
 
 - **Outstanding Student**, Central South University  
   Awarded for academic excellence and overall campus contributions
