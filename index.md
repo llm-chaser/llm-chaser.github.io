@@ -8,7 +8,7 @@ layout: page
 
 👋 Hi, I'm **Jiajun Wu (吴佳俊)**
 
-🎓 I'm a third-year undergraduate student majoring in **Computer Science** at **Central South University**, advised by **Prof. Libo Qin**.
+🎓 I'm a third-year undergraduate student in the **Turing Class (Honors Program in Computer Science and Technology)** at **Central South University**, advised by **Prof. Libo Qin**.
 
 📄 I am the **first author** of a paper submitted to **ARR (October 2025 round)**, with the **intended venue being ACL**.  
 The work is in collaboration with **[Guancheng Wan](https://guanchengwan.github.io)** (UCLA Ph.D. student, Lei Jun Scholarship recipient, Wuhan University), who serves as the **corresponding author**.
