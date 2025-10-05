@@ -6,19 +6,20 @@ layout: page
 
 <img src="/images/with_tiger.jpg" class="floatpic">
 
-👋 Hi, I'm Jiajun Wu (吴佳俊)
+👋 Hi, I'm **Jiajun Wu (吴佳俊)**
 
-🎓 I'm a third-year undergraduate student majoring in Computer Science at **Central South University**, advised by **Prof. Libo Qin**.
+🎓 I'm a third-year undergraduate student majoring in **Computer Science** at **Central South University**, advised by **Prof. Libo Qin**.
 
-📚 Currently, I have two research papers under submission to **EMNLP 2026** and **AAAI 2026**, focusing on **natural language processing** and **multimodal learning**.
+📄 I am the **first author** of a paper submitted to **ARR (October 2025 round)**, with the **intended venue being ACL**.  
+The work is in collaboration with **[Guancheng Wan](https://guanchengwan.github.io)** (UCLA Ph.D. student, Lei Jun Scholarship recipient, Wuhan University), who serves as the **corresponding author**.
+
+💻 I maintain the open-source project [**minimind-notes**](https://github.com/MLNLP-World/minimind-notes) on the **MLNLP GitHub organization**, which has received **42+ stars**.
 
 📬 I'm always open to discussions and collaborations.  
-Feel free to reach out via: 
+Feel free to reach out via:  
 
-**Email**: 8210231904@csu.edu.cn
-
+**Email**: 8210231904@csu.edu.cn  
 **WeChat**: delight9921 (please indicate your purpose when adding)
-
 
 ---
 
@@ -34,9 +35,9 @@ Feel free to reach out via:
 
 ## News and Updates
 
-- ✍️ Writing code, writing papers, writing README... still waiting for Reviewer #2’s kindness.
-- 🧑‍🔬 Trying to balance coursework, research, and the occasional full night's sleep.
-- 🚀 First milestone coming soon… I can feel the “Accepted” button calling me 🛎️
+- 📝 First-author paper submitted to ARR (Oct 2025), targeting ACL — collaboration with [Guancheng Wan](https://guanchengwan.github.io)  
+- 🚀 Released **minimind-notes** on GitHub (42⭐ and growing!)  
+- 🧑‍🔬 Still juggling research, coursework, and that elusive full night’s sleep  
+- ✍️ Writing code, writing papers, writing README... still hoping Reviewer #2 is merciful 😅  
 
 <br>
-
