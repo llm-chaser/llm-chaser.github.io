@@ -19,7 +19,7 @@ I'm always open to discussions and collaborations.
 Feel free to reach out via:  
 
 **Email**: 8210231904@csu.edu.cn  
-**WeChat**: delight9921 (please indicate your purpose when adding)
+**WeChat**: Delight-chaser (please indicate your purpose when adding)
 
 ---
 
