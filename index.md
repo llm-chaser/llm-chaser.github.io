@@ -32,5 +32,5 @@ I'm always open to academic discussions and collaborations — feel free to reac
 ## News and Updates
 
 - 📝 **First-author paper** submitted to **ARR (October 2025 round)**, targeting **ACL** — collaboration with [Guancheng Wan](https://guanchengwan.github.io) (UCLA, Lei Jun Scholarship recipient)  
-- 🤝 Collaborated with [Qiguang Chen (陈麒光)](https://lightchen233.github.io) and other lab members on multiple research projects  
+- 🤝 Collaborated with [Qiguang Chen](https://lightchen233.github.io) and other lab members on multiple research projects  
 - 🚀 Released and maintain the open-source project [**minimind-notes**](https://github.com/MLNLP-World/minimind-notes) under the **MLNLP GitHub organization** (42⭐ and growing!)
