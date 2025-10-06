@@ -8,7 +8,7 @@ title: 主页中文版
 
 <img src="/images/jiajunwu.jpg" class="floatpic">
 
-你好，我是 **吴佳俊**，中南大学计算机学院图灵班（计算机科学与技术卓越班）的一名大三本科生，师从 **[覃立波教授](https://faculty.csu.edu.cn/qinlibo/zh_CN/)**（其博士导师为**车万翔教授**）。
+你好，我是 **吴佳俊**，中南大学计算机学院图灵班（计算机科学与技术卓越班）的一名大三本科生，跟随 **[覃立波教授](https://faculty.csu.edu.cn/qinlibo/zh_CN/)**学习。
 
 我的研究方向主要集中在 **自然语言处理（NLP）**，并对 **大语言模型（LLMs）** 与 **多模态智能（Multimodal Intelligence）** 等前沿领域保持浓厚兴趣。
 
