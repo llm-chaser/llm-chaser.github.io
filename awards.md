@@ -19,7 +19,7 @@ title: Awards
 - **May 2025** — 🥉 **Kaggle Bronze Medal**, *LLMs – You Can't Please Them All*  
   Ranked 129th out of 1692 teams; focused on adversarial robustness for large language models  
   [🔗 View Certificate](https://www.kaggle.com/competitions/llms-you-cant-please-them-all)
-- **Aug 2025** — 🥉 **National Third Prize**, National Cybersecurity Competition for College Students  
+- **Aug 2025** — 🥉 **National Third Prize**, China Internet Security Contest for College Students. 
 
 ---
 
