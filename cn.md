@@ -12,7 +12,7 @@ title: 主页中文版
 
 我的研究方向主要集中在 **自然语言处理（NLP）**，并对 **大语言模型（LLMs）** 与 **多模态智能（Multimodal Intelligence）** 等前沿领域保持浓厚兴趣。
 
-我热衷于构建有影响力的智能系统，并积极参与开源社区。目前，我负责维护 **[minimind-notes](https://github.com/MLNLP-World/minimind-notes)** 开源项目，该项目隶属于 **MLNLP GitHub 组织**，已获得 42+⭐️。
+我热衷于构建有影响力的智能系统，并积极参与开源社区。目前，我负责维护 **[minimind-notes](https://github.com/MLNLP-World/minimind-notes)** 开源项目，该项目隶属于 **MLNLP GitHub 组织**，已获得 近100⭐️。
 
 科研方面，我作为**第一作者**完成了一篇论文，已投稿至 **ARR（2025 年 10 月轮次）**，目标会议为 **ACL**。该工作由 **[万冠呈](https://guanchengwan.github.io)**（加州大学洛杉矶分校博士生、雷军卓越奖学金获得者）担任通讯作者。
 
